@@ -1,0 +1,80 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css";
+@import "https://fonts.googleapis.com/css?family=Roboto:400,500|Libre+Baskerville:400";
+@import "https://px.animaapp.com/621fec582592cbf202936905.621fec5aac60947c06215bb7.k0QmtmC.rcp.png";
+.screen a {
+  text-decoration: none;
+  display: contents;
+}
+
+.container-center-horizontal {
+  pointer-events: none;
+  width: 100%;
+  flex-direction: row;
+  justify-content: center;
+  display: flex;
+}
+
+@media screen and (max-width: 1200px) {
+  .container-center-horizontal {
+    zoom: 88%;
+  }
+}
+
+@media screen and (max-width: 1007) {
+  .container-center-horizontal {
+    zoom: 80%;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .container-center-horizontal {
+    zoom: 73%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .container-center-horizontal {
+    zoom: 73%;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .container-center-horizontal {
+    zoom: 50%;
+  }
+}
+
+.container-center-horizontal > * {
+  pointer-events: auto;
+  flex-shrink: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --black: #000;
+  --summer-green: #8fc0a9;
+  --white: #fff;
+  --font-size-l: 31.9px;
+  --font-size-m: 23px;
+  --font-size-s: 20px;
+  --font-size-xl: 40px;
+  --font-size-xxl: 50px;
+  --font-size-xxxl: 60px;
+  --font-size-xxxxl: 80px;
+  --font-family-libre_baskerville: "Libre Baskerville", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}
+
+.landing-page {
+  background-color: var(--white);
+  height: 4684px;
+  width: 1440px;
+  align-items: flex-start;
+  display: flex;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=index.e1b8c111.css.map */

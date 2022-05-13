@@ -1,0 +1,48 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,500|Libre+Baskerville:400");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/621fec582592cbf202936905.621fec5aac60947c06215bb7.k0QmtmC.rcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+@media screen and (max-width: 1200px) {
+  .container-center-horizontal {zoom: 88%;}
+}
+
+@media screen and (max-width: 1007) {
+  .container-center-horizontal {zoom: 80%;}
+}
+
+@media screen and (max-width: 992px) {
+  .container-center-horizontal {zoom: 73%;}
+}
+
+@media screen and (max-width: 768px) {
+  .container-center-horizontal {zoom: 73%;}
+}
+
+@media screen and (max-width: 576px) {
+  .container-center-horizontal {zoom: 50%;}
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}

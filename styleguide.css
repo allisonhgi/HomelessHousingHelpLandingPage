@@ -1,0 +1,16 @@
+:root { 
+  --black: #000000;
+  --summer-green: #8fc0a9;
+  --white: #ffffff;
+ 
+  --font-size-l: 31.9px;
+  --font-size-m: 23px;
+  --font-size-s: 20px;
+  --font-size-xl: 40px;
+  --font-size-xxl: 50px;
+  --font-size-xxxl: 60px;
+  --font-size-xxxxl: 80px;
+ 
+  --font-family-libre_baskerville: "Libre Baskerville", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}

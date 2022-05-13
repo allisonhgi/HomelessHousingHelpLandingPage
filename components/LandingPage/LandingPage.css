@@ -1,0 +1,9 @@
+.landing-page {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 4684px;
+  overflow: hidden;
+  width: 1440px;
+}
+
