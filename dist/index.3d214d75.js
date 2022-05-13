@@ -22691,8 +22691,7 @@ const landingPageData = {
     howWereSimplifyin: "How We’re Simplifying Resources for the Homeless Community",
     landinggraphic1: "/img/landinggraphic-1@1x.png",
     whatWeDid: "What We Did",
-    withTheGoalOfInc: "With the goal of increasing the number of vouchers used in Seattle, we landed on the solution of  making a resource that homeless people could use to learn more about the emergency housing vouchers, how to apply, and what housing they would qualify for when awarded one.",
-    weAlsoIncludedAdd: "We also included additional resources that the Seattle homeless population could use if they’re waiting for a voucher or ineligible to receive one.",
+    withTheGoalOfInc: "With the goal of increasing the number of vouchers used in Seattle, we landed on the solution of  making a resource that homeless people could use to learn more about the emergency housing vouchers, how to apply, and what housing they would qualify for when awarded one. We also included additional resources that the Seattle homeless population could use if they’re waiting for a voucher or ineligible to receive one.",
     asSeattlesHomeles: "As Seattle’s homeless population has been growing, countless resources have been created to combat this undeniable problem. The emergency housing voucher is just one program that was implemented across the US to help homeless people afford rent in their city, but after a year of being distributed, less than half of them have been awarded in the greater Seattle area. As Seattle residents who see this problem in our city every day, we wanted to make a difference, and take on the task of improving this program to get more people the housing they desperately need.",
     matchingdemo1: "/img/matchingdemo-1@1x.png",
     vouchertooldemo1: "/img/vouchertooldemo-1@1x.png",
@@ -22714,13 +22713,13 @@ const landingPageData = {
             "Nate Nguyen",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 53,
+                lineNumber: 52,
                 columnNumber: 43
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 53,
+        lineNumber: 52,
         columnNumber: 16
     }, undefined),
     spanText2: "Project Manager",
@@ -22729,13 +22728,13 @@ const landingPageData = {
             "Waheeda Hakim",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 55,
+                lineNumber: 54,
                 columnNumber: 45
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 55,
+        lineNumber: 54,
         columnNumber: 16
     }, undefined),
     spanText4: "Data Analyst",
@@ -22744,33 +22743,33 @@ const landingPageData = {
             "Allison Gibbons",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 57,
+                lineNumber: 56,
                 columnNumber: 47
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 57,
+        lineNumber: 56,
         columnNumber: 16
     }, undefined),
-    spanText6: "Web Developer",
+    spanText6: "Full Stack Dev",
     spanText7: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactDefault.default.Fragment, {
         children: [
             "Alex Gherman",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 59,
+                lineNumber: 58,
                 columnNumber: 44
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 59,
+        lineNumber: 58,
         columnNumber: 16
     }, undefined),
     spanText8: "UX/UI Researcher and ",
     spanText9: "Designer",
-    exploreOurServices: "Explore Our Services",
+    exploreOurServices: "Get Housing Help Now",
     text: "",
     logoProps: logo2Data,
     homePageLinkProps: homePageLinkData
@@ -26257,39 +26256,32 @@ class LandingPage extends _reactDefault.default.Component {
                                                 lineNumber: 78,
                                                 columnNumber: 17
                                             }, this),
-                                            /*#__PURE__*/ _jsxDevRuntime.jsxDEV(WeAlsoIncludedAdd, {
-                                                children: weAlsoIncludedAdd
-                                            }, void 0, false, {
-                                                fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 79,
-                                                columnNumber: 17
-                                            }, this),
                                             /*#__PURE__*/ _jsxDevRuntime.jsxDEV(AsSeattlesHomeles, {
                                                 children: asSeattlesHomeles
                                             }, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 80,
+                                                lineNumber: 79,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ _jsxDevRuntime.jsxDEV(MatchingDemo1, {
                                                 src: matchingdemo1
                                             }, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 81,
+                                                lineNumber: 80,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ _jsxDevRuntime.jsxDEV(VoucherToolDemo1, {
                                                 src: vouchertooldemo1
                                             }, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 82,
+                                                lineNumber: 81,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ _jsxDevRuntime.jsxDEV(MoreResourcesDemo1, {
                                                 src: moreresourcesdemo1
                                             }, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 83,
+                                                lineNumber: 82,
                                                 columnNumber: 17
                                             }, this)
                                         ]
@@ -26302,7 +26294,7 @@ class LandingPage extends _reactDefault.default.Component {
                                         children: whyHomelessRelief
                                     }, void 0, false, {
                                         fileName: "components/LandingPage/index.jsx",
-                                        lineNumber: 85,
+                                        lineNumber: 84,
                                         columnNumber: 15
                                     }, this)
                                 ]
@@ -26319,95 +26311,95 @@ class LandingPage extends _reactDefault.default.Component {
                                                 src: "/img/polygon-1@1x.svg"
                                             }, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 89,
+                                                lineNumber: 88,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ _jsxDevRuntime.jsxDEV(ProjectStatus, {
                                                 children: projectStatus
                                             }, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 90,
+                                                lineNumber: 89,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ _jsxDevRuntime.jsxDEV(OurTargetAudience, {
                                                 children: ourTargetAudience
                                             }, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 91,
+                                                lineNumber: 90,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ _jsxDevRuntime.jsxDEV(BySimplifyingAnOt, {
                                                 children: bySimplifyingAnOt
                                             }, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 92,
+                                                lineNumber: 91,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ _jsxDevRuntime.jsxDEV(OurUsers, {
                                                 children: ourUsers
                                             }, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 93,
+                                                lineNumber: 92,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ _jsxDevRuntime.jsxDEV(TheBenefit, {
                                                 children: theBenefit
                                             }, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 94,
+                                                lineNumber: 93,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ _jsxDevRuntime.jsxDEV(Ellipse11, {}, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 95,
+                                                lineNumber: 94,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ _jsxDevRuntime.jsxDEV(OurTeam, {
                                                 children: ourTeam
                                             }, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 96,
+                                                lineNumber: 95,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ _jsxDevRuntime.jsxDEV(Nate1, {
                                                 src: nate1
                                             }, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 97,
+                                                lineNumber: 96,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ _jsxDevRuntime.jsxDEV(Alex1, {
                                                 src: alex1
                                             }, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 98,
+                                                lineNumber: 97,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ _jsxDevRuntime.jsxDEV(Me1, {
                                                 src: me1
                                             }, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 99,
+                                                lineNumber: 98,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ _jsxDevRuntime.jsxDEV(Waheeda1, {
                                                 src: waheeda1
                                             }, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 100,
+                                                lineNumber: 99,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "components/LandingPage/index.jsx",
-                                        lineNumber: 88,
+                                        lineNumber: 87,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ _jsxDevRuntime.jsxDEV(WeWillBePassingT, {
                                         children: weWillBePassingT
                                     }, void 0, false, {
                                         fileName: "components/LandingPage/index.jsx",
-                                        lineNumber: 102,
+                                        lineNumber: 101,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ _jsxDevRuntime.jsxDEV(NateNguyenProjectManager, {
@@ -26417,7 +26409,7 @@ class LandingPage extends _reactDefault.default.Component {
                                                 children: spanText1
                                             }, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 104,
+                                                lineNumber: 103,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
@@ -26425,13 +26417,13 @@ class LandingPage extends _reactDefault.default.Component {
                                                 children: spanText2
                                             }, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 105,
+                                                lineNumber: 104,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "components/LandingPage/index.jsx",
-                                        lineNumber: 103,
+                                        lineNumber: 102,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ _jsxDevRuntime.jsxDEV(WaheedaHakimDataAnalyst, {
@@ -26441,7 +26433,7 @@ class LandingPage extends _reactDefault.default.Component {
                                                 children: spanText3
                                             }, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 108,
+                                                lineNumber: 107,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
@@ -26449,13 +26441,13 @@ class LandingPage extends _reactDefault.default.Component {
                                                 children: spanText4
                                             }, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 109,
+                                                lineNumber: 108,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "components/LandingPage/index.jsx",
-                                        lineNumber: 107,
+                                        lineNumber: 106,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ _jsxDevRuntime.jsxDEV(Name, {
@@ -26465,7 +26457,7 @@ class LandingPage extends _reactDefault.default.Component {
                                                 children: spanText5
                                             }, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 112,
+                                                lineNumber: 111,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
@@ -26473,13 +26465,13 @@ class LandingPage extends _reactDefault.default.Component {
                                                 children: spanText6
                                             }, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 113,
+                                                lineNumber: 112,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "components/LandingPage/index.jsx",
-                                        lineNumber: 111,
+                                        lineNumber: 110,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ _jsxDevRuntime.jsxDEV(Name1, {
@@ -26488,27 +26480,27 @@ class LandingPage extends _reactDefault.default.Component {
                                                 children: spanText7
                                             }, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 116,
+                                                lineNumber: 115,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ _jsxDevRuntime.jsxDEV(Span13, {
                                                 children: spanText8
                                             }, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 117,
+                                                lineNumber: 116,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ _jsxDevRuntime.jsxDEV(Span2, {
                                                 children: spanText9
                                             }, void 0, false, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 118,
+                                                lineNumber: 117,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "components/LandingPage/index.jsx",
-                                        lineNumber: 115,
+                                        lineNumber: 114,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ _jsxDevRuntime.jsxDEV("a", {
@@ -26521,36 +26513,36 @@ class LandingPage extends _reactDefault.default.Component {
                                                         children: exploreOurServices
                                                     }, void 0, false, {
                                                         fileName: "components/LandingPage/index.jsx",
-                                                        lineNumber: 123,
+                                                        lineNumber: 122,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ _jsxDevRuntime.jsxDEV(Arrow1, {
                                                         src: "/img/arrow-1@2x.svg"
                                                     }, void 0, false, {
                                                         fileName: "components/LandingPage/index.jsx",
-                                                        lineNumber: 124,
+                                                        lineNumber: 123,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "components/LandingPage/index.jsx",
-                                                lineNumber: 122,
+                                                lineNumber: 121,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "components/LandingPage/index.jsx",
-                                            lineNumber: 121,
+                                            lineNumber: 120,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "components/LandingPage/index.jsx",
-                                        lineNumber: 120,
+                                        lineNumber: 119,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "components/LandingPage/index.jsx",
-                                lineNumber: 87,
+                                lineNumber: 86,
                                 columnNumber: 13
                             }, this)
                         ]
@@ -26563,7 +26555,7 @@ class LandingPage extends _reactDefault.default.Component {
                         children: text
                     }, void 0, false, {
                         fileName: "components/LandingPage/index.jsx",
-                        lineNumber: 130,
+                        lineNumber: 129,
                         columnNumber: 11
                     }, this)
                 ]
@@ -26739,7 +26731,6 @@ const WeAlsoIncludedAdd = _styledComponentsDefault.default.div`
   letter-spacing: 0;
   line-height: 35px;
 `;
-_c16 = WeAlsoIncludedAdd;
 const AsSeattlesHomeles = _styledComponentsDefault.default.div`
   ${_styledMixins.LibrebaskervilleNormalBlack23px}
   position: absolute;
@@ -26749,34 +26740,34 @@ const AsSeattlesHomeles = _styledComponentsDefault.default.div`
   letter-spacing: 0;
   line-height: 35px;
 `;
-_c17 = AsSeattlesHomeles;
+_c16 = AsSeattlesHomeles;
 const MatchingDemo1 = _styledComponentsDefault.default.img`
   position: absolute;
   width: 645px;
   height: 464px;
-  top: 1391px;
+  top: 1350px;
   left: 278px;
   object-fit: cover;
 `;
-_c18 = MatchingDemo1;
+_c17 = MatchingDemo1;
 const VoucherToolDemo1 = _styledComponentsDefault.default.img`
   position: absolute;
   width: 738px;
   height: 533px;
-  top: 655px;
+  top: 690px;
   left: 791px;
   object-fit: cover;
 `;
-_c19 = VoucherToolDemo1;
+_c18 = VoucherToolDemo1;
 const MoreResourcesDemo1 = _styledComponentsDefault.default.img`
   position: absolute;
   width: 638px;
   height: 464px;
-  top: 1391px;
+  top: 1350px;
   left: 934px;
   object-fit: cover;
 `;
-_c20 = MoreResourcesDemo1;
+_c19 = MoreResourcesDemo1;
 const WhyHomelessRelief = _styledComponentsDefault.default.div`
   ${_styledMixins.RobotoMediumBlack50px}
   position: absolute;
@@ -26785,7 +26776,7 @@ const WhyHomelessRelief = _styledComponentsDefault.default.div`
   left: 287px;
   letter-spacing: 0;
 `;
-_c21 = WhyHomelessRelief;
+_c20 = WhyHomelessRelief;
 const OverlapGroup5 = _styledComponentsDefault.default.div`
   ${_styledMixins.LibrebaskervilleNormalBlack23px}
   width: 1590px;
@@ -26793,7 +26784,7 @@ const OverlapGroup5 = _styledComponentsDefault.default.div`
   position: relative;
   margin-top: 34px;
 `;
-_c22 = OverlapGroup5;
+_c21 = OverlapGroup5;
 const OverlapGroup3 = _styledComponentsDefault.default.div`
   position: absolute;
   width: 1826px;
@@ -26801,7 +26792,7 @@ const OverlapGroup3 = _styledComponentsDefault.default.div`
   top: 0;
   left: 0;
 `;
-_c23 = OverlapGroup3;
+_c22 = OverlapGroup3;
 const Polygon11 = _styledComponentsDefault.default.img`
   position: absolute;
   width: 526px;
@@ -26809,7 +26800,7 @@ const Polygon11 = _styledComponentsDefault.default.img`
   top: 907px;
   left: 0;
 `;
-_c24 = Polygon11;
+_c23 = Polygon11;
 const ProjectStatus = _styledComponentsDefault.default.div`
   ${_styledMixins.RobotoMediumBlack50px}
   position: absolute;
@@ -26818,7 +26809,7 @@ const ProjectStatus = _styledComponentsDefault.default.div`
   left: 213px;
   letter-spacing: 0;
 `;
-_c25 = ProjectStatus;
+_c24 = ProjectStatus;
 const OurTargetAudience = _styledComponentsDefault.default.div`
   ${_styledMixins.LibrebaskervilleNormalBlack23px}
   position: absolute;
@@ -26828,7 +26819,7 @@ const OurTargetAudience = _styledComponentsDefault.default.div`
   letter-spacing: 0;
   line-height: 35px;
 `;
-_c26 = OurTargetAudience;
+_c25 = OurTargetAudience;
 const BySimplifyingAnOt = _styledComponentsDefault.default.div`
   ${_styledMixins.LibrebaskervilleNormalBlack23px}
   position: absolute;
@@ -26838,7 +26829,7 @@ const BySimplifyingAnOt = _styledComponentsDefault.default.div`
   letter-spacing: 0;
   line-height: 35px;
 `;
-_c27 = BySimplifyingAnOt;
+_c26 = BySimplifyingAnOt;
 const OurUsers = _styledComponentsDefault.default.div`
   ${_styledMixins.RobotoMediumBlack50px}
   position: absolute;
@@ -26847,7 +26838,7 @@ const OurUsers = _styledComponentsDefault.default.div`
   left: 213px;
   letter-spacing: 0;
 `;
-_c28 = OurUsers;
+_c27 = OurUsers;
 const TheBenefit = _styledComponentsDefault.default.div`
   ${_styledMixins.RobotoMediumBlack50px}
   position: absolute;
@@ -26856,7 +26847,7 @@ const TheBenefit = _styledComponentsDefault.default.div`
   left: 213px;
   letter-spacing: 0;
 `;
-_c29 = TheBenefit;
+_c28 = TheBenefit;
 const Ellipse11 = _styledComponentsDefault.default.div`
   position: absolute;
   width: 818px;
@@ -26866,7 +26857,7 @@ const Ellipse11 = _styledComponentsDefault.default.div`
   background-color: #8fc0a926;
   border-radius: 409px;
 `;
-_c30 = Ellipse11;
+_c29 = Ellipse11;
 const OurTeam = _styledComponentsDefault.default.div`
   ${_styledMixins.RobotoMediumBlack50px}
   position: absolute;
@@ -26875,7 +26866,7 @@ const OurTeam = _styledComponentsDefault.default.div`
   left: 208px;
   letter-spacing: 0;
 `;
-_c31 = OurTeam;
+_c30 = OurTeam;
 const Nate1 = _styledComponentsDefault.default.img`
   position: absolute;
   width: 152px;
@@ -26884,7 +26875,7 @@ const Nate1 = _styledComponentsDefault.default.img`
   left: 561px;
   object-fit: cover;
 `;
-_c32 = Nate1;
+_c31 = Nate1;
 const Alex1 = _styledComponentsDefault.default.img`
   position: absolute;
   width: 152px;
@@ -26893,7 +26884,7 @@ const Alex1 = _styledComponentsDefault.default.img`
   left: 809px;
   object-fit: cover;
 `;
-_c33 = Alex1;
+_c32 = Alex1;
 const Me1 = _styledComponentsDefault.default.img`
   position: absolute;
   width: 152px;
@@ -26902,7 +26893,7 @@ const Me1 = _styledComponentsDefault.default.img`
   left: 1057px;
   object-fit: cover;
 `;
-_c34 = Me1;
+_c33 = Me1;
 const Waheeda1 = _styledComponentsDefault.default.img`
   position: absolute;
   width: 152px;
@@ -26911,7 +26902,7 @@ const Waheeda1 = _styledComponentsDefault.default.img`
   left: 1298px;
   object-fit: cover;
 `;
-_c35 = Waheeda1;
+_c34 = Waheeda1;
 const WeWillBePassingT = _styledComponentsDefault.default.div`
   position: absolute;
   width: 897px;
@@ -26920,7 +26911,7 @@ const WeWillBePassingT = _styledComponentsDefault.default.div`
   letter-spacing: 0;
   line-height: 35px;
 `;
-_c36 = WeWillBePassingT;
+_c35 = WeWillBePassingT;
 const NateNguyenProjectManager = _styledComponentsDefault.default.div`
   position: absolute;
   width: 212px;
@@ -26930,7 +26921,7 @@ const NateNguyenProjectManager = _styledComponentsDefault.default.div`
   letter-spacing: 0;
   line-height: 35px;
 `;
-_c37 = NateNguyenProjectManager;
+_c36 = NateNguyenProjectManager;
 const WaheedaHakimDataAnalyst = _styledComponentsDefault.default.div`
   position: absolute;
   width: 212px;
@@ -26940,7 +26931,7 @@ const WaheedaHakimDataAnalyst = _styledComponentsDefault.default.div`
   letter-spacing: 0;
   line-height: 35px;
 `;
-_c38 = WaheedaHakimDataAnalyst;
+_c37 = WaheedaHakimDataAnalyst;
 const Name = _styledComponentsDefault.default.div`
   position: absolute;
   width: 212px;
@@ -26950,7 +26941,7 @@ const Name = _styledComponentsDefault.default.div`
   letter-spacing: 0;
   line-height: 35px;
 `;
-_c39 = Name;
+_c38 = Name;
 const Name1 = _styledComponentsDefault.default.div`
   position: absolute;
   width: 221px;
@@ -26960,22 +26951,22 @@ const Name1 = _styledComponentsDefault.default.div`
   letter-spacing: 0;
   line-height: 23px;
 `;
-_c40 = Name1;
+_c39 = Name1;
 const Span03 = _styledComponentsDefault.default.span`
   ${_styledMixins.LibrebaskervilleNormalBlack23px}
   line-height: 35px;
 `;
-_c41 = Span03;
+_c40 = Span03;
 const Span13 = _styledComponentsDefault.default.span`
   ${_styledMixins.LibrebaskervilleNormalBlack20px}
   line-height: 35px;
 `;
-_c42 = Span13;
+_c41 = Span13;
 const Span2 = _styledComponentsDefault.default.span`
   ${_styledMixins.LibrebaskervilleNormalBlack20px}
   line-height: 30px;
 `;
-_c43 = Span2;
+_c42 = Span2;
 const VoucherButtonV3 = _styledComponentsDefault.default.div`
   position: absolute;
   height: 106px;
@@ -26987,7 +26978,7 @@ const VoucherButtonV3 = _styledComponentsDefault.default.div`
   min-width: 443px;
   cursor: pointer;
 `;
-_c44 = VoucherButtonV3;
+_c43 = VoucherButtonV3;
 const VoucherButtonV2 = _styledComponentsDefault.default.div`
   height: 99px;
   display: flex;
@@ -26998,7 +26989,7 @@ const VoucherButtonV2 = _styledComponentsDefault.default.div`
   background-color: #274c77;
   border-radius: 39.85px;
 `;
-_c45 = VoucherButtonV2;
+_c44 = VoucherButtonV2;
 const ExploreOurServices = _styledComponentsDefault.default.div`
   min-height: 37px;
   min-width: 296px;
@@ -27008,7 +26999,7 @@ const ExploreOurServices = _styledComponentsDefault.default.div`
   font-size: var(--font-size-l);
   letter-spacing: 0;
 `;
-_c46 = ExploreOurServices;
+_c45 = ExploreOurServices;
 const Arrow1 = _styledComponentsDefault.default.img`
   width: 39px;
   height: 23px;
@@ -27016,7 +27007,7 @@ const Arrow1 = _styledComponentsDefault.default.img`
   margin-left: 22px;
   margin-bottom: 1.53px;
 `;
-_c47 = Arrow1;
+_c46 = Arrow1;
 const Text = _styledComponentsDefault.default.div`
   ${_styledMixins.LibrebaskervilleNormalBlack23px}
   min-height: 29px;
@@ -27026,9 +27017,9 @@ const Text = _styledComponentsDefault.default.div`
   text-align: center;
   letter-spacing: 0;
 `;
-_c48 = Text;
+_c47 = Text;
 exports.default = LandingPage;
-var _c, _c1, _c2, _c3, _c4, _c5, _c6, _c7, _c8, _c9, _c10, _c11, _c12, _c13, _c14, _c15, _c16, _c17, _c18, _c19, _c20, _c21, _c22, _c23, _c24, _c25, _c26, _c27, _c28, _c29, _c30, _c31, _c32, _c33, _c34, _c35, _c36, _c37, _c38, _c39, _c40, _c41, _c42, _c43, _c44, _c45, _c46, _c47, _c48;
+var _c, _c1, _c2, _c3, _c4, _c5, _c6, _c7, _c8, _c9, _c10, _c11, _c12, _c13, _c14, _c15, _c16, _c17, _c18, _c19, _c20, _c21, _c22, _c23, _c24, _c25, _c26, _c27, _c28, _c29, _c30, _c31, _c32, _c33, _c34, _c35, _c36, _c37, _c38, _c39, _c40, _c41, _c42, _c43, _c44, _c45, _c46, _c47;
 $RefreshReg$(_c, "OverlapGroupContainer");
 $RefreshReg$(_c1, "OverlapGroup6");
 $RefreshReg$(_c2, "OverlapGroup2");
@@ -27045,39 +27036,38 @@ $RefreshReg$(_c12, "Polygon1");
 $RefreshReg$(_c13, "Polygon3");
 $RefreshReg$(_c14, "WhatWeDid");
 $RefreshReg$(_c15, "WithTheGoalOfInc");
-$RefreshReg$(_c16, "WeAlsoIncludedAdd");
-$RefreshReg$(_c17, "AsSeattlesHomeles");
-$RefreshReg$(_c18, "MatchingDemo1");
-$RefreshReg$(_c19, "VoucherToolDemo1");
-$RefreshReg$(_c20, "MoreResourcesDemo1");
-$RefreshReg$(_c21, "WhyHomelessRelief");
-$RefreshReg$(_c22, "OverlapGroup5");
-$RefreshReg$(_c23, "OverlapGroup3");
-$RefreshReg$(_c24, "Polygon11");
-$RefreshReg$(_c25, "ProjectStatus");
-$RefreshReg$(_c26, "OurTargetAudience");
-$RefreshReg$(_c27, "BySimplifyingAnOt");
-$RefreshReg$(_c28, "OurUsers");
-$RefreshReg$(_c29, "TheBenefit");
-$RefreshReg$(_c30, "Ellipse11");
-$RefreshReg$(_c31, "OurTeam");
-$RefreshReg$(_c32, "Nate1");
-$RefreshReg$(_c33, "Alex1");
-$RefreshReg$(_c34, "Me1");
-$RefreshReg$(_c35, "Waheeda1");
-$RefreshReg$(_c36, "WeWillBePassingT");
-$RefreshReg$(_c37, "NateNguyenProjectManager");
-$RefreshReg$(_c38, "WaheedaHakimDataAnalyst");
-$RefreshReg$(_c39, "Name");
-$RefreshReg$(_c40, "Name1");
-$RefreshReg$(_c41, "Span03");
-$RefreshReg$(_c42, "Span13");
-$RefreshReg$(_c43, "Span2");
-$RefreshReg$(_c44, "VoucherButtonV3");
-$RefreshReg$(_c45, "VoucherButtonV2");
-$RefreshReg$(_c46, "ExploreOurServices");
-$RefreshReg$(_c47, "Arrow1");
-$RefreshReg$(_c48, "Text");
+$RefreshReg$(_c16, "AsSeattlesHomeles");
+$RefreshReg$(_c17, "MatchingDemo1");
+$RefreshReg$(_c18, "VoucherToolDemo1");
+$RefreshReg$(_c19, "MoreResourcesDemo1");
+$RefreshReg$(_c20, "WhyHomelessRelief");
+$RefreshReg$(_c21, "OverlapGroup5");
+$RefreshReg$(_c22, "OverlapGroup3");
+$RefreshReg$(_c23, "Polygon11");
+$RefreshReg$(_c24, "ProjectStatus");
+$RefreshReg$(_c25, "OurTargetAudience");
+$RefreshReg$(_c26, "BySimplifyingAnOt");
+$RefreshReg$(_c27, "OurUsers");
+$RefreshReg$(_c28, "TheBenefit");
+$RefreshReg$(_c29, "Ellipse11");
+$RefreshReg$(_c30, "OurTeam");
+$RefreshReg$(_c31, "Nate1");
+$RefreshReg$(_c32, "Alex1");
+$RefreshReg$(_c33, "Me1");
+$RefreshReg$(_c34, "Waheeda1");
+$RefreshReg$(_c35, "WeWillBePassingT");
+$RefreshReg$(_c36, "NateNguyenProjectManager");
+$RefreshReg$(_c37, "WaheedaHakimDataAnalyst");
+$RefreshReg$(_c38, "Name");
+$RefreshReg$(_c39, "Name1");
+$RefreshReg$(_c40, "Span03");
+$RefreshReg$(_c41, "Span13");
+$RefreshReg$(_c42, "Span2");
+$RefreshReg$(_c43, "VoucherButtonV3");
+$RefreshReg$(_c44, "VoucherButtonV2");
+$RefreshReg$(_c45, "ExploreOurServices");
+$RefreshReg$(_c46, "Arrow1");
+$RefreshReg$(_c47, "Text");
 
   $parcel$ReactRefreshHelpers$526f.postlude(module);
 } finally {

@@ -76,7 +76,6 @@ class LandingPage extends React.Component {
                 <Polygon3 src="/img/polygon-3@1x.svg" />
                 <WhatWeDid>{whatWeDid}</WhatWeDid>
                 <WithTheGoalOfInc>{withTheGoalOfInc}</WithTheGoalOfInc>
-                <WeAlsoIncludedAdd>{weAlsoIncludedAdd}</WeAlsoIncludedAdd>
                 <AsSeattlesHomeles>{asSeattlesHomeles}</AsSeattlesHomeles>
                 <MatchingDemo1 src={matchingdemo1} />
                 <VoucherToolDemo1 src={vouchertooldemo1} />
@@ -309,7 +308,7 @@ const MatchingDemo1 = styled.img`
   position: absolute;
   width: 645px;
   height: 464px;
-  top: 1391px;
+  top: 1350px;
   left: 278px;
   object-fit: cover;
 `;
@@ -318,7 +317,7 @@ const VoucherToolDemo1 = styled.img`
   position: absolute;
   width: 738px;
   height: 533px;
-  top: 655px;
+  top: 690px;
   left: 791px;
   object-fit: cover;
 `;
@@ -327,7 +326,7 @@ const MoreResourcesDemo1 = styled.img`
   position: absolute;
   width: 638px;
   height: 464px;
-  top: 1391px;
+  top: 1350px;
   left: 934px;
   object-fit: cover;
 `;
