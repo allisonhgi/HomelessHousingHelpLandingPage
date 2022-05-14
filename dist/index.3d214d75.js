@@ -26754,7 +26754,7 @@ const VoucherToolDemo1 = _styledComponentsDefault.default.img`
   position: absolute;
   width: 738px;
   height: 533px;
-  top: 690px;
+  top: 730px;
   left: 791px;
   object-fit: cover;
 `;
