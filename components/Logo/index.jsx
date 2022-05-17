@@ -8,12 +8,14 @@ class Logo extends React.Component {
     const { className } = this.props;
 
     return (
+      <a href="https://housingvoucherhelp.org/" target="_blank">
       <Logo1 className={`logo ${className || ""}`}>
         <OverlapGroup className="overlap-group">
           <Vector className="vector" src="/img/vector@2x.svg" />
           <HVH className="hvh">HVH</HVH>
         </OverlapGroup>
       </Logo1>
+      </a>
     );
   }
 }
